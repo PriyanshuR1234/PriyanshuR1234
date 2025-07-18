@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Priyanshu Rajput</h1>
-<h3 align="center">🚀 A Full-Stack Dev | IoT & Web3 Builder | Cybersecurity Student | Hackathon Lover</h3>
+<h3 align="center">🚀 A Full-Stack Dev | Hackathon Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality+%F0%9F%92%A1;Building+Smart+Systems+%F0%9F%A7%A0;Crafting+Code+with+Crazy+Creativity+%F0%9F%94%A5;IoT%2C+AI%2C+Web3+and+more..." alt="Typing SVG" />
@@ -50,10 +50,6 @@
 - 🌾 **DSS for Farmers** – Agrotech with IoT + Web3 + AI
 - 🧠 **AI Voice Negotiator** – Voice bot to crack hotel deals
 - 👮‍♂️ **Criminal Detection Alert** – AI-based tracking with real-time maps
-- 🌙 **Night Surveillance System** – Gunstand + camera control IoT
-- 📚 **LearnMate** – EdTech quiz onboarding & dashboard
-- 🧪 **Student ID Verifier** – Gemini API + Flask integration
-
 ---
 
 ## 🏆 Achievements
