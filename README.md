@@ -9,7 +9,8 @@
 
 ### **👨‍💻 About Me**
 
-[cite_start]I am a **B.Tech Computer Science student** at **Meerut Institute of Engineering and Technology (MIET)** with a focus on **Full-Stack Development** and **Agentic AI**[cite: 10, 62, 90]. [cite_start]Currently, I am serving as an **Agentic AI/ML Intern** at Urban Pulse Innovations, where I architect intelligent systems and innovative real-world software solutions[cite: 72, 74].
+I am a **B.Tech Computer Science student** at **Meerut Institute of Engineering and Technology (MIET)** with a focus on **Full-Stack Development** and **Agentic AI**. 
+Currently, I am serving as an **Agentic AI/ML Intern** at Urban Pulse Innovations, where I architect intelligent systems and innovative real-world software solutions.
 
 ---
 
@@ -32,23 +33,23 @@
 ### **🚀 High-Impact Projects**
 
 #### 🌾 **Decision Support System for Farmers** (MERN & AI) | SIH 2025
-* [cite_start]Engineered a comprehensive agricultural platform for **AI-powered crop recommendations** and soil health monitoring [cite: 17, 341-342].
-* [cite_start]Integrated **ESP32-based IoT boxes** with NPK, DHT-22, and Flame sensors for real-time visualization and fire alerts [cite: 19, 428-430].
-* [cite_start]Utilized **Gemini API** and **Node.js** with **RAG/LLM architecture** for a multilingual callbot advisory[cite: 20, 371, 388, 437].
-* [cite_start]Developed a **SIM-less fire alert system** and automated market price analysis via web scraping[cite: 376, 415].
+* Engineered a comprehensive agricultural platform for **AI-powered crop recommendations** and soil health monitoring.
+* Integrated **ESP32-based IoT boxes** with NPK, DHT-22, and Flame sensors for real-time visualization and fire alerts.
+* Utilized **Gemini API** and **Node.js** with **RAG/LLM architecture** for a multilingual callbot advisory.
+* Developed a **SIM-less fire alert system** and automated market price analysis via web scraping.
 
 
 
 #### 👅 **E-Tongue for Dravya Identification** (AI & IoT)
-* [cite_start]Developed an AI-enabled sensor device to analyze herbal samples and detect adulteration using an electronic tongue [cite: 104-105].
-* [cite_start]Utilized **Reinforcement Learning (RL)** to make the system self-learning and adaptive based on chemical taste profiles [cite: 141-143, 159].
-* [cite_start]Integrated a **RAG-based AI callbot** to provide Ayurvedic preparation guidance and context-aware remedies [cite: 162-164].
+* Developed an AI-enabled sensor device to analyze herbal samples and detect adulteration using an electronic tongue.
+* Utilized **Reinforcement Learning (RL)** to make the system self-learning and adaptive based on chemical taste profiles.
+* Integrated a **RAG-based AI callbot** to provide Ayurvedic preparation guidance and context-aware remedies.
 
 
 
 #### 👮‍♂️ **Criminal Detection Alert System** (Full-Stack)
-* [cite_start]Built a real-time face detection system using Python that triggers alerts on a dynamic **React dashboard** [cite: 29-30, 69].
-* [cite_start]Integrated **Google Maps API** for live coordinate-based tracking of flagged suspects[cite: 69].
+* Built a real-time face detection system using Python that triggers alerts on a dynamic **React dashboard**.
+* Integrated **Google Maps API** for live coordinate-based tracking of flagged suspects.
 
 #### 🎬 **Vedit** (AI-Based Video Editor)
 * Architecting an intelligent video editing platform using modern web technologies to automate content creation workflows.
@@ -57,10 +58,10 @@
 
 ### **🏆 Hackathon Triumphs**
 
-* [cite_start]🥇 **1st Place:** Bharat Shiksha Expo Hackathon, Noida (2025)[cite: 36, 84].
-* [cite_start]🥈 **1st Runner-Up:** Trikon 2.0 Hackathon, MIET Meerut (2025)[cite: 37, 85].
-* [cite_start]🥉 **2nd Runner-Up:** Impact 2025 Hackathon (2024)[cite: 38, 86].
-* [cite_start]🌟 Recognized for contributing to the **Google Developer Groups Solution Challenge** [cite: 87-88].
+* 🥇 **1st Place:** Bharat Shiksha Expo Hackathon, Noida (2025).
+* 🥈 **1st Runner-Up:** Trikon 2.0 Hackathon, MIET Meerut (2025).
+* 🥉 **2nd Runner-Up:** Impact 2025 Hackathon (2024).
+* 🌟 Recognized for contributing to the **Google Developer Groups Solution Challenge**.
 
 ---
 
