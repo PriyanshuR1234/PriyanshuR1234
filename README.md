@@ -1,82 +1,58 @@
-<h1 align="center">Hey 👋, I'm Priyanshu Rajput</h1>
-<h3 align="center">🚀 A Full-Stack Dev | Hackathon Lover</h3>
+## Priyanshu Rajput | Full-Stack Developer & Agentic AI Specialist
+
+[cite_start]Highly motivated **B.Tech Computer Science and Engineering** student at **Meerut Institute of Engineering and Technology (MIET)** with a professional focus on **Full-Stack Development** and **Agentic AI**[cite: 10, 62, 72]. [cite_start]Currently serving as an **Agentic AI/ML Intern** at Urban Pulse Innovations, where I architect intelligent systems and real-world software solutions [cite: 72-74].
+
+---
+
+### 🛠️ Technical Stack & Expertise
+
+![Languages](https://img.shields.io/badge/Languages-C%2C%20C%2B%2B%2C%20Python%2C%20JavaScript%2C%20HTML%2C%20CSS-blue?style=flat-square) 
+![Web Stack](https://img.shields.io/badge/Web%2FApp-Node.js%2C%20MongoDB%2C%20React%2C%20Flutter-green?style=flat-square) 
+![AI Tools](https://img.shields.io/badge/AI%20%26%20Automation-Gemini%20API%2C%20RAG%2C%20ElevenLabs%2C%20n8n-orange?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-Git%2C%20VS%20Code%2C%20Twilio%2C%20Docker-lightgrey?style=flat-square)
+
+---
+
+### 🚀 High-Impact Projects
+
+**Decision Support System for Farmers (MERN & AI) | [cite_start]Smart India Hackathon 2025** * Developed an AI-powered platform for **crop recommendations** and real-time **soil health monitoring** [cite: 17-18, 359].
+* [cite_start]Integrated **ESP32-based IoT boxes** with NPK and flame sensors for live data visualization and **SIM-less fire alerts**[cite: 376, 381, 430].
+* [cite_start]Built a 24/7 **multilingual AI callbot** using Gemini API and **RAG architecture** for automated agricultural advisory[cite: 371, 388, 437].
+
+[cite_start]**E-Tongue for Dravya Identification (AI & IoT)** * Architected an AI-enabled sensor device to objectively analyze herbal samples and detect adulteration using a multi-sensor **Electronic Tongue** [cite: 104-105].
+* [cite_start]Implemented **Reinforcement Learning (RL)** for adaptive identification of herbal purity based on pH, TDS, and VOC signatures [cite: 136, 141-143].
+* Integrated a **RAG-based AI callbot** to provide context-aware Ayurvedic medicine preparation guidance [cite: 162-164].
+
+**Criminal Detection Alert System (Full-Stack)** * Engineered a real-time **face detection system** using Python that triggers immediate alerts on a dynamic **React dashboard** [cite: 29-30, 69].
+* Utilized **Google Maps API** for live coordinate-based tracking of flagged individuals[cite: 30, 69].
+
+**Vedit (AI-Based Video Editor)** * Architecting an intelligent video editing platform using modern web technologies to automate content creation workflows.
+
+---
+
+### 🏆 Hackathon Triumphs & Recognition
+
+* 🥇 **1st Place:** Bharat Shiksha Expo Hackathon, Noida (2025)[cite: 36, 84].
+* [cite_start]🥈 **1st Runner-Up:** Trikon 2.0 Hackathon, MIET Meerut (2025)[cite: 37, 85].
+* [cite_start]🥉 **2nd Runner-Up:** Impact 2025 Hackathon (2024)[cite: 38, 86].
+* 🌟 Recognized contributor to the **Google Developer Groups Solution Challenge** [cite: 87-88].
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality+%F0%9F%92%A1;Building+Smart+Systems+%F0%9F%A7%A0;Crafting+Code+with+Crazy+Creativity+%F0%9F%94%A5;IoT%2C+AI%2C+Web3+and+more..." alt="Typing SVG" />
-</p>
-
----
-
-## 📫 Contact Me
-
-- Email: **priyanshurajput1386@gmail.com**
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/priyanshu-rajput-4b29322ab/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rajput_priyanshu_4845" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/priyanshurajpu11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-</p>
-
----
-
-## 🧠 My Hackathon Projects & Startups
-
-- 🌾 **DSS for Farmers** – Agrotech with IoT + Web3 + AI
-- 🧠 **AI Voice Negotiator** – Voice bot to crack hotel deals
-- 👮‍♂️ **Criminal Detection Alert** – AI-based tracking with real-time maps
----
-
-## 🏆 Achievements
-
-- 🥇 1st Place – **Bharat Shiksha Expo Hackathon**
-- 🥈 1st Runner-Up – **Trikon 2.0 Hackathon**
-- 🥉 2nd Runner-Up – **Impact 2025 Hackathon**
-- 🧑‍💻 Participated in **Fetch.ai @ NIT Delhi** and multiple techfests
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuR1234&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuR1234&show_icons=true&theme=radical" alt="Priyanshu Rajput - GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshuR1234&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshuR1234&theme=radical" alt="Priyanshu Rajput - GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🔥 Fun Fact
+### 📫 Connect With Me
 
-> I love turning wires, logic, and curiosity into life-changing inventions ⚡🚀
+* [cite_start]**Email:** [priyanshurajput1386@gmail.com](mailto:priyanshurajput1386@gmail.com) [cite: 3, 59]
+* [cite_start]**LinkedIn:** [linkedin.com/in/priyanshu-rajput-4b29322ab](https://www.linkedin.com/in/priyanshu-rajput-4b29322ab/) [cite: 4, 59]
+* **HackerRank:** [priyanshurajpu11](https://www.hackerrank.com/priyanshurajpu11)
 
----
-
-<p align="center">
-  ⚡ Thanks for scrolling! Drop a ⭐ if you like any of my projects, or just say hi 🤝
-</p>
+> **Fun Fact:** I love turning wires, logic, and curiosity into life-changing inventions! ⚡🚀
