@@ -6,11 +6,10 @@ I am a **B.Tech Computer Science and Engineering** student at **Meerut Institute
 
 ### 🛠️ Technical Stack & Skills
 
-* **Languages:** C, C++, Python, JavaScript, HTML, CSS.
-* **Web/App Stack:** Node.js, MongoDB, React, Flutter (Basic).
-* **AI & Automation:** Gemini API, RAG Architecture, ElevenLabs (Voice AI), n8n automation.
-* **Tools & Platforms:** Git, VS Code, Twilio, Docker, Google Cloud.
-
+* [cite_start]**Languages:** C, C++, Python, JavaScript, HTML, CSS[cite: 12, 79].
+* [cite_start]**Web/App Stack:** Node.js, MongoDB, React, Flutter (Basic)[cite: 13, 80].
+* [cite_start]**AI & Automation:** Gemini API, RAG Architecture, ElevenLabs (Voice AI), n8n automation[cite: 15, 81].
+* [cite_start]**Tools & Platforms:** Git, VS Code, Twilio, Docker, Google Cloud[cite: 14, 24, 81].
 ---
 
 ### 🚀 Key Projects
